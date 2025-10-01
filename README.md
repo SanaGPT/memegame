@@ -1,6 +1,18 @@
-# memegame
-a hilarious game made of my friend by pygame for desktop (customize it with your own pictures)
+Title: Memegame: Gamifying Internet Culture
 
-**features : running char , obstacles (replace pics with your teachers' :)) , measuring score and speeding By the time
+Overview :
+Memegame is a lighthearted project that gamifies meme recognition. Players identify, rate, or remix memes in a structured game format, combining humor with pattern recognition.
 
-**how to run : you need pictures up to three for the char and obstacles , you need pygame , sys and random
+Key Features :
+
+Quiz-based meme recognition
+
+Score tracking and leaderboards
+
+Lightweight interface for casual play
+
+Tech Stack
+
+JavaScript/HTML
+
+Node.js backend
