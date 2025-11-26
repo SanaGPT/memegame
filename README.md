@@ -12,8 +12,3 @@ Score tracking and leaderboards
 
 Lightweight interface for casual play
 
-Tech Stack
-
-JavaScript/HTML
-
-Node.js backend
